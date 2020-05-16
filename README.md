@@ -10,4 +10,4 @@ So, later people can access it as easy as visit http://yourip/svwa/
 
 You may rename svwa folder to anything you like. BUT, MOST OF THE PEOPLE WILL LEAVE IT AS IT IS. 
 
-#shlsvwa #surabayahackerlinksvwa #svwashl #svwasurabayahackerlink
+# #shlsvwa #surabayahackerlinksvwa #svwashl #svwasurabayahackerlink
